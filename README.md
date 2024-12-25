@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 - **Databases:** MySQL, MongoDB, PostgreSQL
 - **Tools:** Git, Docker, Kubernetes
 - **Cloud:** Vercel, AWS, Google Cloud Platform
-- 
 ---
 
 Thank you for visiting my profile! Have a great day! 😊
