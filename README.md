@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm flaancs! 👋
 
-<!--
-**flaancs/flaancs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer with a love for creating efficient and innovative solutions. Here you'll find a variety of projects that I've worked on, ranging from web development to data analysis.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Typescript, JavaScript, Python, C#
+- **Frameworks:** NextJS, NestJS, React, Node.js, Django, ASP.NET, Net Core
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Tools:** Git, Docker, Kubernetes
+- **Cloud:** Vercel, AWS, Google Cloud Platform
+- 
+---
+
+Thank you for visiting my profile! Have a great day! 😊
